@@ -1,3 +1,3 @@
 # literacy
 
-test
+矢吹の主張
