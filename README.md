@@ -1,3 +1,1 @@
-1234567
-
-test
+I love [Wikipedia](https://ja.wikipedia.org)!
